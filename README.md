@@ -1,5 +1,5 @@
 # Twitter-APIs-Project
-_Project of Social Media Management
+_Project of Social Media Management_
 
 _Grade of this project: 30 / 30_
 
