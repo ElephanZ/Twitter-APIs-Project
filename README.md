@@ -12,10 +12,10 @@ The project is a tutorial for the subject "Social Media Management" on how to us
 The use and the behaviour of APIs is a part of the program.
 
 Specifically, I have used them to retrieve the tweets of Italian Politicians and make some statistics:
-* a table to display all stats (it is useful for checking calculations).
-* a pie chart to visualize the difference between the number of tweets per day posted by Left-Wing and Right-Wing politicians.
-* a bar graphic to visualize all weighted statistics by the total number of tweets.
-* a bar graphic to visualize all weighted statistics by the total number of tweets and the respective number of followers.
+* A table to display all data (it is useful for checking calculations).
+* The difference between the number of tweets per day posted by Left-Wing and Right-Wing politicians.
+* Weighted statistics by the total number of tweets.
+* Weighted statistics by the total number of tweets and the respective number of followers.
 
 ## Getting Started
 
